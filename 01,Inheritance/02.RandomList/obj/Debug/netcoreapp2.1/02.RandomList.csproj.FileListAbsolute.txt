@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\bin\Debug\netcoreapp2.1\02.RandomList.deps.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\bin\Debug\netcoreapp2.1\02.RandomList.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\bin\Debug\netcoreapp2.1\02.RandomList.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\bin\Debug\netcoreapp2.1\02.RandomList.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\bin\Debug\netcoreapp2.1\02.RandomList.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.RandomList\obj\Debug\netcoreapp2.1\02.RandomList.genruntimeconfig.cache

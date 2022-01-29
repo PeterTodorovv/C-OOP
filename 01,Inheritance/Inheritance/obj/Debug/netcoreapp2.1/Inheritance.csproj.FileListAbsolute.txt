@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.deps.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\bin\Debug\netcoreapp2.1\Inheritance.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\Inheritance\obj\Debug\netcoreapp2.1\Inheritance.genruntimeconfig.cache
