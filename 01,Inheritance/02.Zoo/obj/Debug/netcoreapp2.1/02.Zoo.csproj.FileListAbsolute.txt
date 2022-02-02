@@ -1,0 +1,12 @@
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\bin\Debug\netcoreapp2.1\02.Zoo.deps.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\bin\Debug\netcoreapp2.1\02.Zoo.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\bin\Debug\netcoreapp2.1\02.Zoo.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\bin\Debug\netcoreapp2.1\02.Zoo.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\bin\Debug\netcoreapp2.1\02.Zoo.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.dll
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.pdb
+D:\c#Code\softuniC#\04.OOP\01,Inheritance\02.Zoo\obj\Debug\netcoreapp2.1\02.Zoo.genruntimeconfig.cache
