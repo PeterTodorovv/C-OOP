@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _03.PlayersAndMonsters
+namespace PlayersAndMonsters
 {
-    class SoulMaster : DarkWizard
+    public class SoulMaster : DarkWizard
     {
         public SoulMaster(string username, int level) : base(username, level)
         {

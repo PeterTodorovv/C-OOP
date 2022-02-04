@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _03.PlayersAndMonsters
+namespace PlayersAndMonsters
 {
-    class StartUp
+    public class StartUp
     {
         static void Main(string[] args)
         {

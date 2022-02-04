@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _03.PlayersAndMonsters
+namespace PlayersAndMonsters
 {
-    class Hero
+    public class Hero
     {
         public Hero(string username, int level)
         {
