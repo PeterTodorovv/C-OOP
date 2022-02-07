@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\bin\Debug\netcoreapp2.1\01.SortPersons.deps.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\bin\Debug\netcoreapp2.1\01.SortPersons.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\bin\Debug\netcoreapp2.1\01.SortPersons.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\bin\Debug\netcoreapp2.1\01.SortPersons.dll
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\bin\Debug\netcoreapp2.1\01.SortPersons.pdb
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.dll
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.pdb
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\01.SortPersons\obj\Debug\netcoreapp2.1\01.SortPersons.genruntimeconfig.cache

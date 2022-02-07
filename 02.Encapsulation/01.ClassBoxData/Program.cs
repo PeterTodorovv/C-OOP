@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _01.SortPersons
+namespace _01.ClassBoxData
 {
     class Program
     {

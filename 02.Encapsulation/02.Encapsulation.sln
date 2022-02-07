@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortPersons", "01.SortPersons\01.SortPersons.csproj", "{B1364DE0-EDEA-4012-BAB4-E25E2ACC4B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SortPersons", "01.SortPersons\01.SortPersons.csproj", "{B1364DE0-EDEA-4012-BAB4-E25E2ACC4B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ClassBoxData", "01.ClassBoxData\01.ClassBoxData.csproj", "{BADAF330-117F-4F50-A876-70FBB716DDA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B1364DE0-EDEA-4012-BAB4-E25E2ACC4B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1364DE0-EDEA-4012-BAB4-E25E2ACC4B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1364DE0-EDEA-4012-BAB4-E25E2ACC4B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADAF330-117F-4F50-A876-70FBB716DDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADAF330-117F-4F50-A876-70FBB716DDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADAF330-117F-4F50-A876-70FBB716DDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADAF330-117F-4F50-A876-70FBB716DDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
