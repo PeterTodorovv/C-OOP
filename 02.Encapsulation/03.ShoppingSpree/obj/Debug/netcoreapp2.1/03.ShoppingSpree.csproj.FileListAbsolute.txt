@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\bin\Debug\netcoreapp2.1\03.ShoppingSpree.deps.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\bin\Debug\netcoreapp2.1\03.ShoppingSpree.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\bin\Debug\netcoreapp2.1\03.ShoppingSpree.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\bin\Debug\netcoreapp2.1\03.ShoppingSpree.dll
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\bin\Debug\netcoreapp2.1\03.ShoppingSpree.pdb
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.dll
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.pdb
+D:\c#Code\softuniC#\04.OOP\02.Encapsulation\03.ShoppingSpree\obj\Debug\netcoreapp2.1\03.ShoppingSpree.genruntimeconfig.cache
