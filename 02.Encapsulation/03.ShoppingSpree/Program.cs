@@ -15,13 +15,29 @@ namespace _03.ShoppingSpree
             foreach (var person in inputPeople)
             {
                 string[] values = person.Split("=", StringSplitOptions.RemoveEmptyEntries);
-                people.Add(values[0], new Person(values[0], decimal.Parse(values[1])));
+                try
+                {
+                    people.Add(values[0], new Person(values[0], decimal.Parse(values[1])));
+                }
+                catch(ArgumentException ae)
+                {
+                    Console.WriteLine(ae.Message);
+                    return;
+                }
             }
 
             foreach (var product in inputProducts)
             {
                 string[] values = product.Split("=", StringSplitOptions.RemoveEmptyEntries);
-                products.Add(values[0], new Product(values[0], decimal.Parse(values[1])));
+                try
+                {
+                    products.Add(values[0], new Product(values[0], decimal.Parse(values[1])));
+                }
+                catch(ArgumentException ae)
+                {
+                    Console.WriteLine(ae.Message);
+                    return;
+                }
             }
 
             string[] input = Console.ReadLine().Split();

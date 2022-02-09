@@ -9,6 +9,7 @@ namespace _03.ShoppingSpree
     {
         private string name;
         private decimal money;
+        private List<Product> BagOfProducts;
 
         public Person(string name, decimal money)
         {
@@ -17,9 +18,9 @@ namespace _03.ShoppingSpree
             BagOfProducts = new List<Product>();
         }
 
-        public string Name { get => name; set 
+        public string Name { get => name; private set 
             {
-                if(value == "")
+                if(string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
@@ -29,7 +30,7 @@ namespace _03.ShoppingSpree
                 }
             }
         }
-        public decimal Money { get => money; set 
+        public decimal Money { get => money;private set 
             {
                 if(value < 0)
                 {
@@ -42,7 +43,6 @@ namespace _03.ShoppingSpree
             }
         }
 
-        public List<Product> BagOfProducts;
 
         public void BuyProduct(Product product)
         {

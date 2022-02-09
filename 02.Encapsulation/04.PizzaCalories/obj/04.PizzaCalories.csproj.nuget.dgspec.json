@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\02.AnimalFarm.csproj": {}
+    "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\04.PizzaCalories\\04.PizzaCalories.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\02.AnimalFarm.csproj": {
+    "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\04.PizzaCalories\\04.PizzaCalories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\02.AnimalFarm.csproj",
-        "projectName": "02.AnimalFarm",
-        "projectPath": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\02.AnimalFarm.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\04.PizzaCalories\\04.PizzaCalories.csproj",
+        "projectName": "04.PizzaCalories",
+        "projectPath": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\04.PizzaCalories\\04.PizzaCalories.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\04.PizzaCalories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,11 +57,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }

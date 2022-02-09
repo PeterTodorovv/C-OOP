@@ -19,7 +19,7 @@ namespace _03.ShoppingSpree
         {
             get => name; set
             {
-                if (value == "")
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
@@ -31,7 +31,7 @@ namespace _03.ShoppingSpree
         }
         public decimal Cost
         {
-            get => cost; set
+            get => cost; private set
             {
                 if (value < 0)
                 {

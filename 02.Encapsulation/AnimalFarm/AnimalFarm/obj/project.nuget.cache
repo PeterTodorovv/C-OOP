@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXDruX55cGqpsYTgQPoguISZQ43y5fbxLVl0GhfW5uXnCR0vkl69F14UEf5SSZcPZxkkYy67bhiT26TU49cGFQ==",
+  "dgSpecHash": "lfFkCMPM2QrwzPo45zUJr2WHOAr+kL7tt+kQ9YySKYn8u2VzDcdf3Eq15RRgfpG8suJqzMZG1ss43lWv54PoJg==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\04.OOP\\02.Encapsulation\\AnimalFarm\\AnimalFarm\\02.AnimalFarm.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

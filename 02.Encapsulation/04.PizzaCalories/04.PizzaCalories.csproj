@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-	  <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_03.ShoppingSpree</RootNamespace>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_04.PizzaCalories</RootNamespace>
   </PropertyGroup>
 
 </Project>
