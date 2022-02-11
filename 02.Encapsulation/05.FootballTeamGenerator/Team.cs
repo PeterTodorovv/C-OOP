@@ -18,20 +18,52 @@ namespace _05.FootballTeamGenerator
         public string Name
         {
             get { return name; }
-            set { name = value; }
+            set
+            {
+                if (!string.IsNullOrEmpty(value))
+                {
+                    name = value;
+                }
+                else
+                {
+                    throw new ArgumentException();
+                }
+            }
         }
 
         private List<Player> players;
-        public int Rating { get => (int)Math.Round(players.Average(p => p.SkillLevel)); }
+        public int Rating { get 
+            {
+                if (players.Count != 0)
+                {
+                    double averageRating = 0;
+                    foreach(var player in players)
+                    {
+                        averageRating =+ player.SkillLevel;
+                    }
+                    averageRating /= players.Count;
+                    return (int)Math.Round(averageRating);
+                }
+                return 0;
+            }
+        }
 
         public void AddPlayer(Player player)
         {
-            players.Add(player);
+            if(player.IsAValidPlayer)
+                players.Add(player);
         }
         
         public void RemovePlayer(string playerName)
         {
-            players.Remove(players.FirstOrDefault(p => p.PlayerName == playerName));
+            if(players.Any(p => p.PlayerName == playerName))
+            {
+                players.Remove(players.FirstOrDefault(p => p.PlayerName == playerName));
+            }
+            else
+            {
+                Console.WriteLine($"Player {playerName} is not in {name} team.");
+            }
         }
     }
 }
