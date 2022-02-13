@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01.Shapes
+namespace _02.Car
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
