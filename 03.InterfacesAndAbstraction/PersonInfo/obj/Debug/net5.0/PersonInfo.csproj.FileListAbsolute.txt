@@ -1,0 +1,16 @@
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.exe
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.deps.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\ref\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\net5.0\PersonInfo.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\ref\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\net5.0\PersonInfo.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\02.Car\obj\Debug\net5.0\02.Car.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\02.Car\obj\Debug\net5.0\02.Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\02.Car\obj\Debug\net5.0\02.Car.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\02.Car\obj\Debug\net5.0\02.Car.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\02.Car\obj\Debug\net5.0\02.Car.csproj.CoreCompileInputs.cache

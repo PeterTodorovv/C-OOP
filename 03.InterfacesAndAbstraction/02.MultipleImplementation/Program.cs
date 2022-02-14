@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _02.Car
+namespace _02.MultipleImplementation
 {
     internal class Program
     {

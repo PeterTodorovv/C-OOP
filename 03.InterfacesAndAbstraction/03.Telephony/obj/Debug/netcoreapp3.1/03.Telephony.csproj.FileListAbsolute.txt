@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.exe
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.deps.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.genruntimeconfig.cache

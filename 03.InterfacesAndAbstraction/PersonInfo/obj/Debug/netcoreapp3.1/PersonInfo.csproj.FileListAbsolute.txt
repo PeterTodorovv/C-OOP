@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache

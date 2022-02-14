@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+D:\c#Code\softuniC#\04.OOP\03.InterfacesAndAbstraction\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache
