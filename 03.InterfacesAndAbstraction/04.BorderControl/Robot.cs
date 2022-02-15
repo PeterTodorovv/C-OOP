@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _04.BorderControl
 {
-    public class Robot : IRobot, ICitizen
+    public class Robot : IId
     {
         public Robot(string model, string id)
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _04.BorderControl
 {
-    public interface ICitizen
+    public interface IId
     {
         public string Id { get; set; }
     }

@@ -30,7 +30,27 @@
       "ProjectGuid": "98b7257f-7c6c-417f-8f7b-bf542328a1f3",
       "DisplayName": "02.MultipleImplementation",
       "ColorIndex": 4
+    },
+    "7458eff1-3027-49bb-807c-0e377a11850c": {
+      "ProjectGuid": "7458eff1-3027-49bb-807c-0e377a11850c",
+      "DisplayName": "03.Telephony",
+      "ColorIndex": 5
+    },
+    "890402d4-5d5e-412c-8837-c317b061fe63": {
+      "ProjectGuid": "890402d4-5d5e-412c-8837-c317b061fe63",
+      "DisplayName": "04.BorderControl",
+      "ColorIndex": 6
+    },
+    "0603925b-8dd0-456b-ba58-2f7648df220a": {
+      "ProjectGuid": "0603925b-8dd0-456b-ba58-2f7648df220a",
+      "DisplayName": "05.BirthdayCelebrations",
+      "ColorIndex": 7
+    },
+    "596db3e6-aa1a-44e2-89d5-3a4180e9d487": {
+      "ProjectGuid": "596db3e6-aa1a-44e2-89d5-3a4180e9d487",
+      "DisplayName": "07.MilitaryElite",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 9
 }

@@ -4,8 +4,8 @@ using System.Text;
 
 namespace _04.BorderControl
 {
-    public interface IRobot
+    public interface IBirthDate
     {
-        public string Model { get; set; }
+        public string Birthdate { get; set; }
     }
 }

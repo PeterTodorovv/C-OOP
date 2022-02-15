@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _04.BorderControl
 {
@@ -7,38 +8,42 @@ namespace _04.BorderControl
     {
         public static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(' ');
-            List<ICitizen> citizens = new List<ICitizen>();
+            int n = int.Parse(Console.ReadLine());
+            List<IBuyer> buyers = new List<IBuyer>();
 
-            while (input[0] != "End")
+            for(int i = 0; i < n; i++)
             {
-                if (input.Length == 2)
-                {
-                    string model =  input[0];
-                    string id = input[1];
-                    citizens.Add(new Robot(model, id));
-                }
-                else if (input.Length == 3)
+                string[] input = Console.ReadLine().Split(' ');
+
+                if(input.Length == 4)
                 {
                     string name = input[0];
                     int age = int.Parse(input[1]);
                     string id = input[2];
-                    citizens.Add(new Human(name, age, id));
+                    string birthdate = input[3];
+                    buyers.Add(new Citizen(name, age, id, birthdate));
                 }
-
-                input = Console.ReadLine().Split(' ');
-            }
-
-
-            string invalidIds = Console.ReadLine();
-
-            foreach (var cirizen in citizens)
-            {
-                if (cirizen.Id.Substring(cirizen.Id.Length - invalidIds.Length) == invalidIds)
+                else if(input.Length == 3)
                 {
-                    Console.WriteLine(cirizen.Id);
+                    string name = input[0];
+                    int age = int.Parse(input[1]);
+                    string group = input[2];
+                    buyers.Add(new Rebel(name, age, group));
                 }
             }
+
+            string buyerName = Console.ReadLine();
+
+            while(buyerName != "End")
+            {
+                if (buyers.Any(b => b.Name == buyerName))
+                {
+                    buyers.First(b => b.Name == buyerName).BuyFood();
+                }
+                buyerName = Console.ReadLine();
+            }
+
+            Console.WriteLine(buyers.Sum(b => b.Food));
         }
     }
 }
