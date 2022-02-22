@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.exe
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.deps.json
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.dll
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.pdb
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.dll
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.pdb
+D:\c#Code\softuniC#\04.OOP\04.Polymorphism\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.genruntimeconfig.cache

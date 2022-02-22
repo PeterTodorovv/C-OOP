@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _01.MathOperation
+namespace Shapes
 {
-    internal class Program
+    internal class StartUp
     {
         static void Main(string[] args)
         {
