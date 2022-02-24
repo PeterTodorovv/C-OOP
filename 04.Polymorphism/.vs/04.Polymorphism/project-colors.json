@@ -15,7 +15,17 @@
       "ProjectGuid": "8f08196c-5be6-432d-b11a-4cfcf487779b",
       "DisplayName": "03.Shapes",
       "ColorIndex": 2
+    },
+    "e95f46ac-58e1-4b20-b1bf-6b7b2ce842d7": {
+      "ProjectGuid": "e95f46ac-58e1-4b20-b1bf-6b7b2ce842d7",
+      "DisplayName": "01.Vehicles",
+      "ColorIndex": 3
+    },
+    "091d0bca-adf5-429e-ad3e-6e7e786b65a2": {
+      "ProjectGuid": "091d0bca-adf5-429e-ad3e-6e7e786b65a2",
+      "DisplayName": "02.Vehicles2.0",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

@@ -18,12 +18,12 @@ namespace Shapes
         public double Width { get { return width; } set { width = value; } }
         public override double CalculateArea()
         {
-            throw new NotImplementedException();
+            return height * width;
         }
 
         public override double CalculatePerimeter()
         {
-            throw new NotImplementedException();
+            return (width + height) * 2;
         }
     }
 }

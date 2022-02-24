@@ -2,9 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _02.Animals
+namespace Animals
 {
-    internal class Dog
+    internal class Dog : Animal
     {
+        public Dog(string name, string favoriteFood) : base(name, favoriteFood)
+        {
+        }
+
+        public override string ExplainSelf()
+        {
+            return base.ExplainSelf() + Environment.NewLine + "DJAAF";
+        }
     }
 }
