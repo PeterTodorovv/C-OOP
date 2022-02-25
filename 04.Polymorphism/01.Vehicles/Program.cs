@@ -15,14 +15,14 @@ namespace _01.Vehicles
             string[] truckInfo = Console.ReadLine().Split(' ');
             double tFuel = double.Parse(truckInfo[1]);
             double tFuelConsumprion = double.Parse(truckInfo[2]);
-            double tTankCapacity = double.Parse(carInfo[3]);
+            double tTankCapacity = double.Parse(truckInfo[3]);
             IVehicle truck = new Truck(tFuel, tFuelConsumprion, tTankCapacity);
 
             string[] busInfo = Console.ReadLine().Split(' ');
             double bFuel = double.Parse(busInfo[1]);
             double bFuelConsumprion = double.Parse(busInfo[2]);
             double bTankCapacity = double.Parse(busInfo[3]);
-            IVehicle bus = new Truck(bFuel, bFuelConsumprion, bTankCapacity);
+            IVehicle bus = new Bus(bFuel, bFuelConsumprion, bTankCapacity);
 
             int n = int.Parse(Console.ReadLine());
 
@@ -63,6 +63,7 @@ namespace _01.Vehicles
                     {
                         if (bus.CanBeDriven(distance))
                         {
+                            bus.IsEmpty = false;
                             bus.Drive(distance);
                             Console.WriteLine($"Bus travelled {distance} km");
                         }
@@ -117,7 +118,7 @@ namespace _01.Vehicles
                     if (bus.CanBeDriven(distance))
                     {
                         bus.Drive(distance);
-                        Console.WriteLine($"Truck travelled {bus} km");
+                        Console.WriteLine($"Bus travelled {distance} km");
                     }
                     else
                     {

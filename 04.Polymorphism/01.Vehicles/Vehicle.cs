@@ -10,12 +10,12 @@ namespace _01.Vehicles
         private double fuelConsumption;
         private double tankCapacity;
 
-        public Vehicle(double tankCapacity, double fuelConsumption, double fuelQuantity)
+        public Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity)
         {
             TankCapacity = tankCapacity;
             FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
-
+            IsEmpty = false;
         }
 
         public double FuelQuantity
@@ -41,14 +41,14 @@ namespace _01.Vehicles
             return fuelQuantity >= km * FuelConsumption;
         }
 
-        public bool HaveEnoughSpace(double liters)
+        public virtual bool HaveEnoughSpace(double liters)
         {
             return tankCapacity >= liters + fuelQuantity;
         }
 
         public virtual void Drive(double km)
         {
-            this.FuelQuantity -= km * this.FuelConsumption;
+            this.FuelQuantity -= km * FuelConsumption;
         }
 
         public virtual void Refuel(double fuel)

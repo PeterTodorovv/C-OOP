@@ -6,7 +6,7 @@ namespace _01.Vehicles
 {
     internal class Car : Vehicle
     {
-        public Car(double tankCapacity, double fuelConsumption, double fuelQuantity) : base(tankCapacity, fuelConsumption, fuelQuantity)
+        public Car(double fuelQuantity, double fuelConsumption, double tankCapacity) : base(fuelQuantity, fuelConsumption, tankCapacity)
         {
         }
 

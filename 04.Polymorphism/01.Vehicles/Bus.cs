@@ -6,20 +6,19 @@ namespace _01.Vehicles
 {
     internal class Bus : Vehicle
     {
-        public Bus(double tankCapacity, double fuelConsumption, double fuelQuantity) : base(tankCapacity, fuelConsumption, fuelQuantity)
+        public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity) : base(fuelQuantity, fuelConsumption, tankCapacity)
         {
+           baseFuelConsumption = fuelConsumption;
         }
 
-        public override void Drive(double km)
-        {
-            if (IsEmpty)
+        private double baseFuelConsumption { get; set; }
+        public override double FuelConsumption { get 
             {
-                base.Drive(km);
-            }
-            else
-            {
-                FuelConsumption = base.FuelConsumption + 1.4;
-                base.Drive(km);
+                if (IsEmpty)
+                {
+                    return baseFuelConsumption;
+                }
+                return baseFuelConsumption + 1.4;
             }
         }
     }

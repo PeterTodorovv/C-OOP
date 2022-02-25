@@ -25,7 +25,17 @@
       "ProjectGuid": "091d0bca-adf5-429e-ad3e-6e7e786b65a2",
       "DisplayName": "02.Vehicles2.0",
       "ColorIndex": 4
+    },
+    "3c9ed767-9a34-4251-8c11-c11940fad6e7": {
+      "ProjectGuid": "3c9ed767-9a34-4251-8c11-c11940fad6e7",
+      "DisplayName": "03.Raiding",
+      "ColorIndex": 5
+    },
+    "91a51c98-f804-4cd2-9f9b-1187fab655bd": {
+      "ProjectGuid": "91a51c98-f804-4cd2-9f9b-1187fab655bd",
+      "DisplayName": "04.WildFarm",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
