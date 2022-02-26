@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.exe
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.deps.json
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.dll
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.pdb
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.dll
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.pdb
+D:\c#Code\softuniC#\04.OOP\05.ExceptionHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.genruntimeconfig.cache
