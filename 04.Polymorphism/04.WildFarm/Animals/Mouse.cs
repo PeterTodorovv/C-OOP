@@ -11,7 +11,7 @@ namespace _04.WildFarm.Animals
         {
         }
 
-        public override double WeightToGain => 0.1;
+        public override double WeightToGain => 0.10;
 
         public override void AskForFood()
         {
