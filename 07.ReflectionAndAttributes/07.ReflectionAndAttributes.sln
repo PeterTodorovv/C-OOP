@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ReflectionAndAttributes", "07.ReflectionAndAttributes\07.ReflectionAndAttributes.csproj", "{B22A5D0E-5CAB-4BD0-8200-39061C5D0B79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Stealer", "07.ReflectionAndAttributes\01.Stealer.csproj", "{B22A5D0E-5CAB-4BD0-8200-39061C5D0B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HighQualityMistakes", "02.HighQualityMistakes\02.HighQualityMistakes.csproj", "{7EEF2EFE-7293-4872-BCA6-28F84302CE47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B22A5D0E-5CAB-4BD0-8200-39061C5D0B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B22A5D0E-5CAB-4BD0-8200-39061C5D0B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B22A5D0E-5CAB-4BD0-8200-39061C5D0B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEF2EFE-7293-4872-BCA6-28F84302CE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEF2EFE-7293-4872-BCA6-28F84302CE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEF2EFE-7293-4872-BCA6-28F84302CE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEF2EFE-7293-4872-BCA6-28F84302CE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\07.ReflectionAndAttributes\\01.Stealer.csproj",
-      "projectName": "01.Stealer",
-      "projectPath": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\07.ReflectionAndAttributes\\01.Stealer.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
+      "projectName": "02.HighQualityMistakes",
+      "projectPath": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\02.HighQualityMistakes\\02.HighQualityMistakes.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\07.ReflectionAndAttributes\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\04.OOP\\07.ReflectionAndAttributes\\02.HighQualityMistakes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

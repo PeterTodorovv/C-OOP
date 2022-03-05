@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _07.ReflectionAndAttributes
+namespace _02.HighQualityMistakes
 {
     internal class Program
     {

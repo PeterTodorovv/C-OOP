@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.exe
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.deps.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.dll
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\bin\Debug\netcoreapp3.1\01.Stealer.pdb
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.dll
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.pdb
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\07.ReflectionAndAttributes\obj\Debug\netcoreapp3.1\01.Stealer.genruntimeconfig.cache

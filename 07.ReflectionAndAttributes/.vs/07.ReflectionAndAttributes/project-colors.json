@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b22a5d0e-5cab-4bd0-8200-39061c5d0b79": {
+      "ProjectGuid": "b22a5d0e-5cab-4bd0-8200-39061c5d0b79",
+      "DisplayName": "01.Stealer",
+      "ColorIndex": 0
+    },
+    "7eef2efe-7293-4872-bca6-28f84302ce47": {
+      "ProjectGuid": "7eef2efe-7293-4872-bca6-28f84302ce47",
+      "DisplayName": "02.HighQualityMistakes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
