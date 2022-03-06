@@ -10,7 +10,12 @@
       "ProjectGuid": "7eef2efe-7293-4872-bca6-28f84302ce47",
       "DisplayName": "02.HighQualityMistakes",
       "ColorIndex": 1
+    },
+    "306713d8-ae3b-41ae-910d-b338018f3cf7": {
+      "ProjectGuid": "306713d8-ae3b-41ae-910d-b338018f3cf7",
+      "DisplayName": "05.CreateAttribute",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

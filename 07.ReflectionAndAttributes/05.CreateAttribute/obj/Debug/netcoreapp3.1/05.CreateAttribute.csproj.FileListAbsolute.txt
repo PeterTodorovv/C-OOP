@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.exe
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.deps.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.dll
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp3.1\05.CreateAttribute.pdb
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.dll
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.pdb
+D:\c#Code\softuniC#\04.OOP\07.ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp3.1\05.CreateAttribute.genruntimeconfig.cache
