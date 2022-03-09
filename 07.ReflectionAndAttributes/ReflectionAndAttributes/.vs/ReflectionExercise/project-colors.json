@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6434b66-8d22-4b97-9153-5f4360b5c278": {
+      "ProjectGuid": "f6434b66-8d22-4b97-9153-5f4360b5c278",
+      "DisplayName": "ValidationAttributes",
+      "ColorIndex": 0
+    },
+    "43d01cad-5f3e-4393-bcda-8373a35ced49": {
+      "ProjectGuid": "43d01cad-5f3e-4393-bcda-8373a35ced49",
+      "DisplayName": "CommandPattern",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
