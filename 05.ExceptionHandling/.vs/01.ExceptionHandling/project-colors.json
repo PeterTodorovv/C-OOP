@@ -5,7 +5,12 @@
       "ProjectGuid": "88c74452-e05b-4712-878f-a99309c46def",
       "DisplayName": "01.SquareRoot",
       "ColorIndex": 0
+    },
+    "d6a18511-7f5c-4fef-aca4-77af6e7bbd10": {
+      "ProjectGuid": "d6a18511-7f5c-4fef-aca4-77af6e7bbd10",
+      "DisplayName": "02.EnterNumbers",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
