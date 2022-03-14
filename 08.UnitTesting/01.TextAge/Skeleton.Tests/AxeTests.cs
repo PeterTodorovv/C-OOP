@@ -23,5 +23,7 @@ namespace Skeleton.Tests
 
             Assert.That(() => axe.Attack(dummy), Throws.Exception);
         }
+
+        
     }
 }

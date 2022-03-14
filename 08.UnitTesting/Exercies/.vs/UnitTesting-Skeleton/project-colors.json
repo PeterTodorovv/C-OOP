@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07b99ec2-39fc-49d3-b347-8866e73651e3": {
+      "ProjectGuid": "07b99ec2-39fc-49d3-b347-8866e73651e3",
+      "DisplayName": "Database",
+      "ColorIndex": 0
+    },
+    "5795f810-87d3-4fc9-89b3-61985ee6f92b": {
+      "ProjectGuid": "5795f810-87d3-4fc9-89b3-61985ee6f92b",
+      "DisplayName": "Database.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
