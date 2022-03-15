@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using Database;
+using System.Linq;
 
 namespace Tests
 {
@@ -54,9 +55,16 @@ namespace Tests
         }
 
         [Test]
-        public void ConstructorCanTakeOnlyInts()
+        [TestCase(1, 5, 5)]
+        [TestCase(1, 7, 7)]
+        [TestCase(1, 16, 16)]
+        [TestCase(1, 1, 1)]
+        public void ConstructorCanTakeUpTo16Elements(int start, int count, int reslut)
         {
-            //Assert.That(() => new Database.Database("String"), Throws.Exception);
+            int[] numbers = Enumerable.Range(start, count).ToArray();
+            Database.Database database = new Database.Database(numbers);
+
+            Assert.AreEqual(database.Count, reslut);
         }
     }
 }
