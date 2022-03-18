@@ -66,5 +66,14 @@ namespace Tests
 
             Assert.AreEqual(database.Count, reslut);
         }
+
+        [Test]
+        public void FetchMethodShouldReturnNumbersAsArray()
+        {
+            int[] numbers = new int[] {1, 2, 3};
+            Database.Database database = new Database.Database(numbers);
+
+            Assert.AreEqual(database.Fetch(), numbers);
+        }
     }
 }

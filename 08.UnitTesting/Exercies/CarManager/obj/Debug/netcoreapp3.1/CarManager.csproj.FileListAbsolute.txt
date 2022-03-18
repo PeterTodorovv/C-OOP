@@ -1,0 +1,9 @@
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

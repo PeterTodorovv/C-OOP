@@ -1957,6 +1957,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "DatabaseExtended/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DatabaseExtended.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatabaseExtended.dll": {}
+        }
       }
     }
   },
@@ -6472,10 +6482,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "DatabaseExtended/1.0.0": {
+      "type": "project",
+      "path": "../DatabaseExtended/DatabaseExtended.csproj",
+      "msbuildProject": "../DatabaseExtended/DatabaseExtended.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "DatabaseExtended >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "NUnit3TestAdapter >= 3.9.0",
       "nunit >= 3.9.0"
@@ -6507,7 +6523,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\c#Code\\softuniC#\\04.OOP\\08.UnitTesting\\Exercies\\DatabaseExtended\\DatabaseExtended.csproj": {
+              "projectPath": "D:\\c#Code\\softuniC#\\04.OOP\\08.UnitTesting\\Exercies\\DatabaseExtended\\DatabaseExtended.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

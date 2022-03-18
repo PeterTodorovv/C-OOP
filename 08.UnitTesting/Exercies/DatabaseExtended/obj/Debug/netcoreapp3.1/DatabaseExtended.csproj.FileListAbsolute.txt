@@ -1,0 +1,10 @@
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
