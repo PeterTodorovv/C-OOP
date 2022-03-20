@@ -1,0 +1,10 @@
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\c#Code\softuniC#\04.OOP\08.UnitTesting\Exercies\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
