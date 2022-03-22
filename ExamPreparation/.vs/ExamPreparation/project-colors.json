@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61319689-ff65-4aa3-89fe-a0205429968c": {
+      "ProjectGuid": "61319689-ff65-4aa3-89fe-a0205429968c",
+      "DisplayName": "ExamPreparation",
+      "ColorIndex": 0
+    },
+    "5e51539c-4e6c-4c69-ab6f-3fe94eb0ca40": {
+      "ProjectGuid": "5e51539c-4e6c-4c69-ab6f-3fe94eb0ca40",
+      "DisplayName": "CarRacing",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
