@@ -2,27 +2,34 @@
 using CarRacing.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace CarRacing.Repositories
 {
     internal class RacerRepository : IRepository<IRacer>
     {
-        public IReadOnlyCollection<IRacer> Models => throw new NotImplementedException();
+        private List<IRacer> racers;
+        public IReadOnlyCollection<IRacer> Models => racers;
 
         public void Add(IRacer model)
         {
-            throw new NotImplementedException();
+            if(model == null)
+            {
+                throw new ArgumentException("Cannot add null in Racer Repository");
+            }
+
+            racers.Add(model);
         }
 
         public IRacer FindBy(string property)
         {
-            throw new NotImplementedException();
+            return racers.FirstOrDefault(r => r.Username == property);
         }
 
         public bool Remove(IRacer model)
         {
-            throw new NotImplementedException();
+            return racers.Remove(model);
         }
     }
 }
