@@ -61,6 +61,10 @@ namespace CarRacing.Models.Cars
                 {
                     throw new ArgumentException("Car VIN must be exactly 17 characters long.");
                 }
+                else
+                {
+                    vIN = value;
+                }
             }
         }
 
