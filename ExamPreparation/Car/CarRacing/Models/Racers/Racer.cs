@@ -15,6 +15,10 @@ namespace CarRacing.Models.Racers
 
         protected Racer(string username, string racingBehavior, int drivingExperience, ICar car)
         {
+            Username = username;
+            RacingBehavior = racingBehavior;
+            DrivingExperience = drivingExperience;
+            Car = car;
         }
 
         public string Username { get => username; set

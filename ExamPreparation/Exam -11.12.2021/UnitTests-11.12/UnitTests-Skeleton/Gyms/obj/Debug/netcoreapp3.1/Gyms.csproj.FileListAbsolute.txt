@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam -11.12.2021\UnitTests-11.12\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

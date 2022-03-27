@@ -10,16 +10,19 @@ namespace CarRacing.Repositories
     internal class RacerRepository : IRepository<IRacer>
     {
         private List<IRacer> racers;
-        public IReadOnlyCollection<IRacer> Models => racers;
+        public IReadOnlyCollection<IRacer> Models => this.racers;
 
+        public RacerRepository()
+        {
+            racers = new List<IRacer>();
+        }
         public void Add(IRacer model)
         {
             if(model == null)
             {
                 throw new ArgumentException("Cannot add null in Racer Repository");
             }
-
-            racers.Add(model);
+            this.racers.Add(model);
         }
 
         public IRacer FindBy(string property)

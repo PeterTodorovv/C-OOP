@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rOKunsIRyfGZh358qM7UUb/rFJ9rVz7NWcs93JZYLqUP4+MwFy35ETpcBW92pKinAGFNVzL5rPFNJUntWrtTA==",
+  "success": true,
+  "projectFilePath": "D:\\c#Code\\softuniC#\\04.OOP\\ExamPreparation\\UnitTest\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

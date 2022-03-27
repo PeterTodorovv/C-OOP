@@ -30,7 +30,7 @@ namespace CarRacing.Models.Cars
             {
                 if (value == null || value == " ")
                 {
-                    throw new ArgumentNullException("Car make cannot be null or empty.");
+                    throw new ArgumentException("Car make cannot be null or empty.");
                 }
                 else
                 {
@@ -44,7 +44,7 @@ namespace CarRacing.Models.Cars
             {
                 if (value == null || value == " ")
                 {
-                    throw new ArgumentNullException("Car model cannot be null or empty.");
+                    throw new ArgumentException("Car model cannot be null or empty.");
                 }
                 else
                 {

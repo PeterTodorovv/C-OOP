@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "981c1a4c-974b-4253-ba45-5e59051c5e98": {
+      "ProjectGuid": "981c1a4c-974b-4253-ba45-5e59051c5e98",
+      "DisplayName": "Robots.Tests",
+      "ColorIndex": 0
+    },
+    "7c2ccab0-37db-4c50-839d-6c7122934b29": {
+      "ProjectGuid": "7c2ccab0-37db-4c50-839d-6c7122934b29",
+      "DisplayName": "Robots",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

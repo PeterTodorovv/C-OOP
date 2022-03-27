@@ -48,6 +48,7 @@ namespace CarRacing.Core
         public string AddRacer(string type, string username, string carVIN)
         {
             ICar car;
+            IRacer racer;
             if (cars.FindBy(carVIN) == null)
             {
                 throw new ArgumentException("Car cannot be found!");
@@ -59,17 +60,18 @@ namespace CarRacing.Core
 
             if (type == "ProfessionalRacer")
             {
-                racers.Add(new ProfessionalRacer(username, car));
+                racer = new ProfessionalRacer(username, car);
             }
             else if(type == "StreetRacer")
             {
-                racers.Add(new StreetRacer(username, car));
+                racer = new StreetRacer(username, car);
             }
             else
             {
                 throw new ArgumentException("Invalid racer type!");
             }
-            
+
+            racers.Add(racer);
             return $"Successfully added racer {username}.";
         }
 
