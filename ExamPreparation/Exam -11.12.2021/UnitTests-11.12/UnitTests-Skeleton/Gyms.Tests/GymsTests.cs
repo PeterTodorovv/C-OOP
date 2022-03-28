@@ -40,9 +40,12 @@ namespace Gyms.Tests
         {
             Gym gym = new Gym("Fitness", 12);
             gym.AddAthlete(new Athlete("Ivan"));
-            gym.AddAthlete(new Athlete("Gosho"));
-            gym.AddAthlete(new Athlete("Pesho"));
+            Assert.AreEqual(1, gym.Count);
 
+            gym.AddAthlete(new Athlete("Gosho"));
+            Assert.AreEqual(2, gym.Count);
+
+            gym.AddAthlete(new Athlete("Pesho"));
             Assert.AreEqual(3, gym.Count);
         }
 
@@ -53,7 +56,8 @@ namespace Gyms.Tests
             gym.AddAthlete(new Athlete("Ivan"));
             gym.AddAthlete(new Athlete("Gosho"));
 
-            Assert.Throws<InvalidOperationException>(() => gym.AddAthlete(new Athlete("Pesho")));
+            Athlete athlete = new Athlete("Pesho");
+            Assert.Throws<InvalidOperationException>(() => gym.AddAthlete(athlete));
         }
 
         [Test]
@@ -112,7 +116,7 @@ namespace Gyms.Tests
             gym.AddAthlete(new Athlete("Gosho"));
 
             string report = gym.Report();
-            string expected = $"Active athletes at Fitness: Ivan, Gosho";
+            string expected = $"Active athletes at {gym.Name}: Ivan, Gosho";
 
             Assert.AreEqual(expected, report);
 
@@ -126,7 +130,7 @@ namespace Gyms.Tests
             gym.AddAthlete(new Athlete("Gosho"));
 
             gym.InjureAthlete("Gosho");
-            string expected = $"Active athletes at Fitness: Ivan";
+            string expected = $"Active athletes at {gym.Name}: Ivan";
 
         }
     }

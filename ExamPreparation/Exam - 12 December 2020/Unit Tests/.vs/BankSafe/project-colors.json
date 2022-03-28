@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6f7c721-de5b-4921-8e71-70a081eccdb7": {
+      "ProjectGuid": "f6f7c721-de5b-4921-8e71-70a081eccdb7",
+      "DisplayName": "BankSafe.Tests",
+      "ColorIndex": 0
+    },
+    "3950db23-6f7b-42d5-9642-7ddb8d70fc1a": {
+      "ProjectGuid": "3950db23-6f7b-42d5-9642-7ddb8d70fc1a",
+      "DisplayName": "BankSafe",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
