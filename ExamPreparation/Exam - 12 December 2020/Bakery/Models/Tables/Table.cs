@@ -56,13 +56,17 @@ namespace Bakery.Models.Tables
 
         public bool IsReserved { get; private set; }
 
-        public decimal Price { get; }
+        public decimal Price { get 
+            {
+                return PricePerPerson * NumberOfPeople;
+            }
+        }
 
         public void Clear()
         {
             FoodOrders.Clear();
             DrinkOrders.Clear();
-            NumberOfPeople = 0;
+            numberOfPeople = 0;
             IsReserved = false;
         }
 
