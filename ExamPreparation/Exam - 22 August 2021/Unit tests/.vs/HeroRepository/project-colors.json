@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4da09406-fe89-4f1b-a9c2-263bfad93f31": {
+      "ProjectGuid": "4da09406-fe89-4f1b-a9c2-263bfad93f31",
+      "DisplayName": "HeroRepository.Tests",
+      "ColorIndex": 0
+    },
+    "4da194f1-cdcc-4d7b-928e-d0eda0418a89": {
+      "ProjectGuid": "4da194f1-cdcc-4d7b-928e-d0eda0418a89",
+      "DisplayName": "HeroRepository",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

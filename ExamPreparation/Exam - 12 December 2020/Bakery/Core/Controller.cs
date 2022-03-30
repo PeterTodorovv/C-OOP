@@ -75,7 +75,9 @@ namespace Bakery.Core.Contracts
 
         public string GetFreeTablesInfo()
         {
-            throw new NotImplementedException();
+            ITable[] nonReservedTables = tables.Where(t => !t.IsReserved).ToArray();
+
+            return "";
         }
 
         public string GetTotalIncome()
@@ -103,6 +105,7 @@ namespace Bakery.Core.Contracts
                 return $"There is no {drinkName} {drinkBrand} available";
             }
 
+            table.OrderDrink(drink);
             return $"Table {tableNumber} ordered {drinkName} {drinkBrand}";
         }
 
@@ -122,6 +125,7 @@ namespace Bakery.Core.Contracts
                 return $"No {foodName} in the menu";
             }
 
+            table.OrderFood(food);
             return $"Table {tableNumber} ordered {foodName}";
         }
 
