@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.exe
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.dll
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.pdb
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.dll
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.pdb
+D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

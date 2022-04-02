@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.9724770642201835" branch-rate="1" lines-covered="106" lines-valid="109" branches-covered="10" branches-valid="10" complexity="26" version="0" timestamp="1648818330">
+  <sources>
+    <source>D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="Book" line-rate="0.9523809523809523" branch-rate="1" complexity="15">
+      <classes>
+        <class name="Book.Book" filename="D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\Book.cs" line-rate="1" branch-rate="1" complexity="14">
+          <methods>
+            <method name="get_FootnoteCount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_BookName" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="set_BookName" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="25" hits="12" branch="false" />
+                <line number="26" hits="12" branch="true" condition-coverage="100% (2/2)" />
+                <line number="27" hits="2" branch="false" />
+                <line number="28" hits="2" branch="false" />
+                <line number="31" hits="10" branch="false" />
+                <line number="32" hits="10" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Author" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="set_Author" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="39" hits="10" branch="false" />
+                <line number="40" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="41" hits="2" branch="false" />
+                <line number="42" hits="2" branch="false" />
+                <line number="45" hits="8" branch="false" />
+                <line number="46" hits="8" branch="false" />
+              </lines>
+            </method>
+            <method name="AddFootnote" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="50" hits="17" branch="false" />
+                <line number="51" hits="17" branch="true" condition-coverage="100% (2/2)" />
+                <line number="52" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="56" hits="16" branch="false" />
+                <line number="57" hits="16" branch="false" />
+              </lines>
+            </method>
+            <method name="FindFootnote" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="60" hits="3" branch="false" />
+                <line number="61" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="62" hits="1" branch="false" />
+                <line number="63" hits="1" branch="false" />
+                <line number="66" hits="2" branch="false" />
+                <line number="68" hits="2" branch="false" />
+                <line number="69" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="AlterFootnote" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="72" hits="2" branch="false" />
+                <line number="73" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="74" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="78" hits="1" branch="false" />
+                <line number="79" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="12" branch="false" />
+                <line number="12" hits="12" branch="false" />
+                <line number="13" hits="12" branch="false" />
+                <line number="14" hits="10" branch="false" />
+                <line number="16" hits="8" branch="false" />
+                <line number="17" hits="8" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="12" branch="false" />
+            <line number="12" hits="12" branch="false" />
+            <line number="13" hits="12" branch="false" />
+            <line number="14" hits="10" branch="false" />
+            <line number="16" hits="8" branch="false" />
+            <line number="17" hits="8" branch="false" />
+            <line number="19" hits="4" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="12" branch="false" />
+            <line number="26" hits="12" branch="true" condition-coverage="100% (2/2)" />
+            <line number="27" hits="2" branch="false" />
+            <line number="28" hits="2" branch="false" />
+            <line number="31" hits="10" branch="false" />
+            <line number="32" hits="10" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="39" hits="10" branch="false" />
+            <line number="40" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="41" hits="2" branch="false" />
+            <line number="42" hits="2" branch="false" />
+            <line number="45" hits="8" branch="false" />
+            <line number="46" hits="8" branch="false" />
+            <line number="50" hits="17" branch="false" />
+            <line number="51" hits="17" branch="true" condition-coverage="100% (2/2)" />
+            <line number="52" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="56" hits="16" branch="false" />
+            <line number="57" hits="16" branch="false" />
+            <line number="60" hits="3" branch="false" />
+            <line number="61" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="62" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="66" hits="2" branch="false" />
+            <line number="68" hits="2" branch="false" />
+            <line number="69" hits="2" branch="false" />
+            <line number="72" hits="2" branch="false" />
+            <line number="73" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="74" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="78" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="Book.StartUp" filename="D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book\StartUp.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Book.Tests" line-rate="0.9850746268656716" branch-rate="1" complexity="11">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\peter\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Book.Tests.Tests" filename="D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 20 Dec 2021\Unit tests\BookSkeleton\Book.Tests\Tests.cs" line-rate="1" branch-rate="1" complexity="10">
+          <methods>
+            <method name="ConstructorSetsBookNameAndAuthor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="BookStartsWithZeroFootnotes" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="BookNameCantBeNullOrEmpty" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="2" branch="false" />
+                <line number="34" hits="4" branch="false" />
+                <line number="36" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="AuthorNameCantBeNullOrEmpty" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="2" branch="false" />
+                <line number="43" hits="4" branch="false" />
+                <line number="45" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="UniqueFootnotesCanBeAdded" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="49" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="54" hits="1" branch="false" />
+                <line number="55" hits="1" branch="false" />
+                <line number="57" hits="1" branch="false" />
+                <line number="58" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="TwoNotesCantHaveTheSameNumber" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="63" hits="1" branch="false" />
+                <line number="64" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+                <line number="69" hits="2" branch="false" />
+                <line number="70" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CanFindNoteThatExists" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="74" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+                <line number="77" hits="1" branch="false" />
+                <line number="78" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+                <line number="82" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CantFindNoteThatDoesntExist" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="86" hits="1" branch="false" />
+                <line number="87" hits="1" branch="false" />
+                <line number="88" hits="1" branch="false" />
+                <line number="89" hits="1" branch="false" />
+                <line number="90" hits="1" branch="false" />
+                <line number="92" hits="2" branch="false" />
+                <line number="93" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="FootnotesTextCanBeChanged" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="97" hits="1" branch="false" />
+                <line number="98" hits="1" branch="false" />
+                <line number="99" hits="1" branch="false" />
+                <line number="100" hits="1" branch="false" />
+                <line number="101" hits="1" branch="false" />
+                <line number="102" hits="1" branch="false" />
+                <line number="103" hits="1" branch="false" />
+                <line number="104" hits="1" branch="false" />
+                <line number="105" hits="1" branch="false" />
+                <line number="106" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CantAlterFootnoteThatDoesntExist" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="110" hits="1" branch="false" />
+                <line number="111" hits="1" branch="false" />
+                <line number="112" hits="1" branch="false" />
+                <line number="113" hits="1" branch="false" />
+                <line number="114" hits="1" branch="false" />
+                <line number="116" hits="1" branch="false" />
+                <line number="117" hits="1" branch="false" />
+                <line number="118" hits="2" branch="false" />
+                <line number="119" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="33" hits="2" branch="false" />
+            <line number="34" hits="4" branch="false" />
+            <line number="36" hits="2" branch="false" />
+            <line number="42" hits="2" branch="false" />
+            <line number="43" hits="4" branch="false" />
+            <line number="45" hits="2" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="54" hits="1" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="58" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="64" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="69" hits="2" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="74" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="78" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="86" hits="1" branch="false" />
+            <line number="87" hits="1" branch="false" />
+            <line number="88" hits="1" branch="false" />
+            <line number="89" hits="1" branch="false" />
+            <line number="90" hits="1" branch="false" />
+            <line number="92" hits="2" branch="false" />
+            <line number="93" hits="1" branch="false" />
+            <line number="97" hits="1" branch="false" />
+            <line number="98" hits="1" branch="false" />
+            <line number="99" hits="1" branch="false" />
+            <line number="100" hits="1" branch="false" />
+            <line number="101" hits="1" branch="false" />
+            <line number="102" hits="1" branch="false" />
+            <line number="103" hits="1" branch="false" />
+            <line number="104" hits="1" branch="false" />
+            <line number="105" hits="1" branch="false" />
+            <line number="106" hits="1" branch="false" />
+            <line number="110" hits="1" branch="false" />
+            <line number="111" hits="1" branch="false" />
+            <line number="112" hits="1" branch="false" />
+            <line number="113" hits="1" branch="false" />
+            <line number="114" hits="1" branch="false" />
+            <line number="116" hits="1" branch="false" />
+            <line number="117" hits="1" branch="false" />
+            <line number="118" hits="2" branch="false" />
+            <line number="119" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

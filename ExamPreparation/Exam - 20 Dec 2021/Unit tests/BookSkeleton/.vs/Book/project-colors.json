@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31a7837d-b6f0-48ff-9dcc-8d7b6a24eac3": {
+      "ProjectGuid": "31a7837d-b6f0-48ff-9dcc-8d7b6a24eac3",
+      "DisplayName": "Book.Tests",
+      "ColorIndex": 0
+    },
+    "607cf03a-8860-4882-bf27-2f0b936fb68e": {
+      "ProjectGuid": "607cf03a-8860-4882-bf27-2f0b936fb68e",
+      "DisplayName": "Book",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
