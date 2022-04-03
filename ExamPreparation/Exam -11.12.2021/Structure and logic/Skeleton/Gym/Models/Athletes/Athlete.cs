@@ -6,11 +6,19 @@ using System.Text;
 
 namespace Gym.Models.Athletes
 {
-    internal abstract class Athlete : IAthlete
+    public abstract class Athlete : IAthlete
     {
         private string fullName;
         private string motivation;
         private int numberOfMedals;
+
+        public Athlete(string fullName, string motivation, int numberOfMedals, int stamina)
+        {
+            FullName = fullName;
+            Motivation = motivation;
+            NumberOfMedals = numberOfMedals;
+            Stamina = stamina;
+        }
 
         public string FullName
         {
@@ -36,7 +44,7 @@ namespace Gym.Models.Athletes
             }
         }
 
-        public int Stamina { get; private set; }
+        public int Stamina { get; protected set; }
 
         public int NumberOfMedals { get => numberOfMedals; private set 
             {
