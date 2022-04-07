@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdd9094c-5bd0-4ff5-8fac-f6e50f878dc0": {
+      "ProjectGuid": "cdd9094c-5bd0-4ff5-8fac-f6e50f878dc0",
+      "DisplayName": "FestivalManager.Tests",
+      "ColorIndex": 0
+    },
+    "52d5a51c-9295-42a6-be3a-c33177b60e5c": {
+      "ProjectGuid": "52d5a51c-9295-42a6-be3a-c33177b60e5c",
+      "DisplayName": "FestivalManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

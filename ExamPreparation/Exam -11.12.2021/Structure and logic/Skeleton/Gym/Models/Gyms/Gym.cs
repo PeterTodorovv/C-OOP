@@ -35,7 +35,7 @@ namespace Gym.Models.Gyms
 
         public int Capacity { get; private set; }
 
-        public double EquipmentWeight => equipment.Sum( e => e.Weight );
+        public double EquipmentWeight => equipment.Select( e => e.Weight ).Sum();
 
         public ICollection<IEquipment> Equipment => equipment;
 
@@ -43,7 +43,7 @@ namespace Gym.Models.Gyms
 
         public void AddAthlete(IAthlete athlete)
         {
-            if(Capacity < athletes.Count)
+            if(Capacity > athletes.Count)
             {
                 athletes.Add(athlete);
             }
@@ -58,7 +58,13 @@ namespace Gym.Models.Gyms
             this.equipment.Add(equipment);
         }
 
-        public abstract void Exercise();
+        public void Exercise()
+        {
+            foreach(var athlete in athletes)
+            {
+                athlete.Exercise();
+            }
+        }
 
         public string GymInfo()
         {

@@ -10,13 +10,5 @@ namespace Gym.Models.Gyms
         public BoxingGym(string name) : base(name, 15)
         {
         }
-
-        public override void Exercise()
-        {
-            foreach(var athlete in Athletes.Where(a => a.GetType().Name == "Boxer"))
-            {
-                athlete.Exercise();
-            }
-        }
     }
 }
