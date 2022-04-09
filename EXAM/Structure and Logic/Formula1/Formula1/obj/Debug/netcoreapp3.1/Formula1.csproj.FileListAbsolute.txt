@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+D:\c#Code\softuniC#\04.OOP\EXAM\Structure and Logic\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache

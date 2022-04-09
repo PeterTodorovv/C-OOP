@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.8832" branch-rate="0.8" version="1.9" timestamp="1649362062" lines-covered="121" lines-valid="137" branches-covered="8" branches-valid="10">
+<coverage line-rate="0.9166" branch-rate="1" version="1.9" timestamp="1649363225" lines-covered="132" lines-valid="144" branches-covered="10" branches-valid="10">
   <sources>
     <source>D:\c#Code\softuniC#\04.OOP\ExamPreparation\Exam - 19 December 2020\Unit tests\</source>
     <source>C:\</source>
   </sources>
   <packages>
-    <package name="FestivalManager" line-rate="0.8275" branch-rate="0.8" complexity="26">
+    <package name="FestivalManager" line-rate="0.8734999999999999" branch-rate="1" complexity="26">
       <classes>
         <class name="FestivalManager.StartUp" filename="FestivalManager\StartUp.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -43,22 +43,22 @@
           <methods>
             <method name="get_FirstName" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="17" hits="7" branch="False" />
+                <line number="17" hits="9" branch="False" />
               </lines>
             </method>
             <method name="get_LastName" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="18" hits="7" branch="False" />
+                <line number="18" hits="9" branch="False" />
               </lines>
             </method>
             <method name="get_FullName" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="20" hits="7" branch="False" />
+                <line number="20" hits="9" branch="False" />
               </lines>
             </method>
             <method name="get_Age" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="22" hits="8" branch="False" />
+                <line number="22" hits="9" branch="False" />
               </lines>
             </method>
             <method name="get_SongList" signature="()" line-rate="1" branch-rate="1" complexity="1">
@@ -75,44 +75,44 @@
             </method>
             <method name=".ctor" signature="(System.String,System.String,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="8" hits="8" branch="False" />
-                <line number="9" hits="8" branch="False" />
-                <line number="10" hits="8" branch="False" />
-                <line number="11" hits="8" branch="False" />
-                <line number="12" hits="8" branch="False" />
-                <line number="14" hits="8" branch="False" />
-                <line number="15" hits="8" branch="False" />
+                <line number="8" hits="9" branch="False" />
+                <line number="9" hits="9" branch="False" />
+                <line number="10" hits="9" branch="False" />
+                <line number="11" hits="9" branch="False" />
+                <line number="12" hits="9" branch="False" />
+                <line number="14" hits="9" branch="False" />
+                <line number="15" hits="9" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="17" hits="7" branch="False" />
-            <line number="18" hits="7" branch="False" />
-            <line number="20" hits="7" branch="False" />
-            <line number="22" hits="8" branch="False" />
+            <line number="17" hits="9" branch="False" />
+            <line number="18" hits="9" branch="False" />
+            <line number="20" hits="9" branch="False" />
+            <line number="22" hits="9" branch="False" />
             <line number="23" hits="6" branch="False" />
             <line number="26" hits="3" branch="False" />
             <line number="27" hits="3" branch="False" />
             <line number="28" hits="3" branch="False" />
-            <line number="8" hits="8" branch="False" />
-            <line number="9" hits="8" branch="False" />
-            <line number="10" hits="8" branch="False" />
-            <line number="11" hits="8" branch="False" />
-            <line number="12" hits="8" branch="False" />
-            <line number="14" hits="8" branch="False" />
-            <line number="15" hits="8" branch="False" />
+            <line number="8" hits="9" branch="False" />
+            <line number="9" hits="9" branch="False" />
+            <line number="10" hits="9" branch="False" />
+            <line number="11" hits="9" branch="False" />
+            <line number="12" hits="9" branch="False" />
+            <line number="14" hits="9" branch="False" />
+            <line number="15" hits="9" branch="False" />
           </lines>
         </class>
         <class name="FestivalManager.Entities.Song" filename="FestivalManager\Entities\Song.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="12" hits="7" branch="False" />
+                <line number="12" hits="8" branch="False" />
               </lines>
             </method>
             <method name="get_Duration" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="14" hits="7" branch="False" />
+                <line number="14" hits="8" branch="False" />
               </lines>
             </method>
             <method name="ToString" signature="()" line-rate="1" branch-rate="1" complexity="1">
@@ -124,71 +124,71 @@
             </method>
             <method name=".ctor" signature="(System.String,System.TimeSpan)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="4" branch="False" />
-                <line number="8" hits="4" branch="False" />
-                <line number="9" hits="4" branch="False" />
-                <line number="10" hits="4" branch="False" />
-                <line number="11" hits="4" branch="False" />
+                <line number="7" hits="5" branch="False" />
+                <line number="8" hits="5" branch="False" />
+                <line number="9" hits="5" branch="False" />
+                <line number="10" hits="5" branch="False" />
+                <line number="11" hits="5" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="12" hits="7" branch="False" />
-            <line number="14" hits="7" branch="False" />
+            <line number="12" hits="8" branch="False" />
+            <line number="14" hits="8" branch="False" />
             <line number="17" hits="3" branch="False" />
             <line number="18" hits="3" branch="False" />
             <line number="19" hits="3" branch="False" />
-            <line number="7" hits="4" branch="False" />
-            <line number="8" hits="4" branch="False" />
-            <line number="9" hits="4" branch="False" />
-            <line number="10" hits="4" branch="False" />
-            <line number="11" hits="4" branch="False" />
+            <line number="7" hits="5" branch="False" />
+            <line number="8" hits="5" branch="False" />
+            <line number="9" hits="5" branch="False" />
+            <line number="10" hits="5" branch="False" />
+            <line number="11" hits="5" branch="False" />
           </lines>
         </class>
-        <class name="FestivalManager.Entities.Stage" filename="FestivalManager\Entities\Stage.cs" line-rate="0.9215000000000001" branch-rate="0.8" complexity="14">
+        <class name="FestivalManager.Entities.Stage" filename="FestivalManager\Entities\Stage.cs" line-rate="1" branch-rate="1" complexity="14">
           <methods>
             <method name="get_Performers" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="20" hits="7" branch="False" />
+                <line number="20" hits="9" branch="False" />
               </lines>
             </method>
             <method name="AddPerformer" signature="(FestivalManager.Entities.Performer)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="23" hits="9" branch="False" />
-                <line number="24" hits="9" branch="False" />
-                <line number="26" hits="8" branch="True" condition-coverage="100% (2/2)">
+                <line number="23" hits="10" branch="False" />
+                <line number="24" hits="10" branch="False" />
+                <line number="26" hits="9" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
                     <condition number="31" type="jump" coverage="100%" />
                   </conditions>
                 </line>
                 <line number="27" hits="1" branch="False" />
                 <line number="28" hits="1" branch="False" />
-                <line number="31" hits="7" branch="False" />
-                <line number="32" hits="7" branch="False" />
+                <line number="31" hits="8" branch="False" />
+                <line number="32" hits="8" branch="False" />
               </lines>
             </method>
             <method name="AddSong" signature="(FestivalManager.Entities.Song)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="35" hits="5" branch="False" />
-                <line number="36" hits="5" branch="False" />
-                <line number="38" hits="4" branch="True" condition-coverage="100% (2/2)">
+                <line number="35" hits="6" branch="False" />
+                <line number="36" hits="6" branch="False" />
+                <line number="38" hits="5" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
                     <condition number="46" type="jump" coverage="100%" />
                   </conditions>
                 </line>
                 <line number="39" hits="1" branch="False" />
                 <line number="40" hits="1" branch="False" />
-                <line number="43" hits="3" branch="False" />
-                <line number="44" hits="3" branch="False" />
+                <line number="43" hits="4" branch="False" />
+                <line number="44" hits="4" branch="False" />
               </lines>
             </method>
             <method name="AddSongToPerformer" signature="(System.String,System.String)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="47" hits="3" branch="False" />
-                <line number="48" hits="3" branch="False" />
-                <line number="49" hits="3" branch="False" />
-                <line number="51" hits="3" branch="False" />
-                <line number="52" hits="3" branch="False" />
+                <line number="47" hits="5" branch="False" />
+                <line number="48" hits="5" branch="False" />
+                <line number="49" hits="5" branch="False" />
+                <line number="51" hits="5" branch="False" />
+                <line number="52" hits="4" branch="False" />
                 <line number="54" hits="3" branch="False" />
                 <line number="56" hits="3" branch="False" />
                 <line number="57" hits="3" branch="False" />
@@ -202,88 +202,88 @@
                 <line number="64" hits="1" branch="False" />
               </lines>
             </method>
-            <method name="GetPerformer" signature="(System.String)" line-rate="0.7142000000000001" branch-rate="0.5" complexity="2">
+            <method name="GetPerformer" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="67" hits="3" branch="False" />
-                <line number="68" hits="7" branch="False" />
-                <line number="70" hits="3" branch="True" condition-coverage="50% (1/2)">
+                <line number="67" hits="5" branch="False" />
+                <line number="68" hits="11" branch="False" />
+                <line number="70" hits="5" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
-                    <condition number="44" type="jump" coverage="50%" />
+                    <condition number="44" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="71" hits="0" branch="False" />
-                <line number="72" hits="0" branch="False" />
-                <line number="75" hits="3" branch="False" />
-                <line number="76" hits="3" branch="False" />
+                <line number="71" hits="1" branch="False" />
+                <line number="72" hits="1" branch="False" />
+                <line number="75" hits="4" branch="False" />
+                <line number="76" hits="4" branch="False" />
               </lines>
             </method>
-            <method name="GetSong" signature="(System.String)" line-rate="0.7142000000000001" branch-rate="0.5" complexity="2">
+            <method name="GetSong" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="79" hits="3" branch="False" />
-                <line number="80" hits="7" branch="False" />
-                <line number="82" hits="3" branch="True" condition-coverage="50% (1/2)">
+                <line number="79" hits="4" branch="False" />
+                <line number="80" hits="9" branch="False" />
+                <line number="82" hits="4" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
-                    <condition number="44" type="jump" coverage="50%" />
+                    <condition number="44" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="83" hits="0" branch="False" />
-                <line number="84" hits="0" branch="False" />
+                <line number="83" hits="1" branch="False" />
+                <line number="84" hits="1" branch="False" />
                 <line number="87" hits="3" branch="False" />
                 <line number="88" hits="3" branch="False" />
               </lines>
             </method>
             <method name="ValidateNullValue" signature="(System.Object,System.String,System.String)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="91" hits="20" branch="False" />
-                <line number="92" hits="20" branch="True" condition-coverage="100% (2/2)">
+                <line number="91" hits="26" branch="False" />
+                <line number="92" hits="26" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
                     <condition number="7" type="jump" coverage="100%" />
                   </conditions>
                 </line>
                 <line number="93" hits="2" branch="False" />
                 <line number="94" hits="2" branch="False" />
-                <line number="96" hits="18" branch="False" />
+                <line number="96" hits="24" branch="False" />
               </lines>
             </method>
             <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="14" hits="8" branch="False" />
-                <line number="15" hits="8" branch="False" />
-                <line number="16" hits="8" branch="False" />
-                <line number="17" hits="8" branch="False" />
-                <line number="18" hits="8" branch="False" />
+                <line number="14" hits="9" branch="False" />
+                <line number="15" hits="9" branch="False" />
+                <line number="16" hits="9" branch="False" />
+                <line number="17" hits="9" branch="False" />
+                <line number="18" hits="9" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="20" hits="7" branch="False" />
-            <line number="23" hits="9" branch="False" />
-            <line number="24" hits="9" branch="False" />
-            <line number="26" hits="8" branch="True" condition-coverage="100% (2/2)">
+            <line number="20" hits="9" branch="False" />
+            <line number="23" hits="10" branch="False" />
+            <line number="24" hits="10" branch="False" />
+            <line number="26" hits="9" branch="True" condition-coverage="100% (2/2)">
               <conditions>
                 <condition number="31" type="jump" coverage="100%" />
               </conditions>
             </line>
             <line number="27" hits="1" branch="False" />
             <line number="28" hits="1" branch="False" />
-            <line number="31" hits="7" branch="False" />
-            <line number="32" hits="7" branch="False" />
-            <line number="35" hits="5" branch="False" />
-            <line number="36" hits="5" branch="False" />
-            <line number="38" hits="4" branch="True" condition-coverage="100% (2/2)">
+            <line number="31" hits="8" branch="False" />
+            <line number="32" hits="8" branch="False" />
+            <line number="35" hits="6" branch="False" />
+            <line number="36" hits="6" branch="False" />
+            <line number="38" hits="5" branch="True" condition-coverage="100% (2/2)">
               <conditions>
                 <condition number="46" type="jump" coverage="100%" />
               </conditions>
             </line>
             <line number="39" hits="1" branch="False" />
             <line number="40" hits="1" branch="False" />
-            <line number="43" hits="3" branch="False" />
-            <line number="44" hits="3" branch="False" />
-            <line number="47" hits="3" branch="False" />
-            <line number="48" hits="3" branch="False" />
-            <line number="49" hits="3" branch="False" />
-            <line number="51" hits="3" branch="False" />
-            <line number="52" hits="3" branch="False" />
+            <line number="43" hits="4" branch="False" />
+            <line number="44" hits="4" branch="False" />
+            <line number="47" hits="5" branch="False" />
+            <line number="48" hits="5" branch="False" />
+            <line number="49" hits="5" branch="False" />
+            <line number="51" hits="5" branch="False" />
+            <line number="52" hits="4" branch="False" />
             <line number="54" hits="3" branch="False" />
             <line number="56" hits="3" branch="False" />
             <line number="57" hits="3" branch="False" />
@@ -291,47 +291,47 @@
             <line number="61" hits="3" branch="False" />
             <line number="63" hits="1" branch="False" />
             <line number="64" hits="1" branch="False" />
-            <line number="67" hits="3" branch="False" />
-            <line number="68" hits="7" branch="False" />
-            <line number="70" hits="3" branch="True" condition-coverage="50% (1/2)">
+            <line number="67" hits="5" branch="False" />
+            <line number="68" hits="11" branch="False" />
+            <line number="70" hits="5" branch="True" condition-coverage="100% (2/2)">
               <conditions>
-                <condition number="44" type="jump" coverage="50%" />
+                <condition number="44" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="71" hits="0" branch="False" />
-            <line number="72" hits="0" branch="False" />
-            <line number="75" hits="3" branch="False" />
-            <line number="76" hits="3" branch="False" />
-            <line number="79" hits="3" branch="False" />
-            <line number="80" hits="7" branch="False" />
-            <line number="82" hits="3" branch="True" condition-coverage="50% (1/2)">
+            <line number="71" hits="1" branch="False" />
+            <line number="72" hits="1" branch="False" />
+            <line number="75" hits="4" branch="False" />
+            <line number="76" hits="4" branch="False" />
+            <line number="79" hits="4" branch="False" />
+            <line number="80" hits="9" branch="False" />
+            <line number="82" hits="4" branch="True" condition-coverage="100% (2/2)">
               <conditions>
-                <condition number="44" type="jump" coverage="50%" />
+                <condition number="44" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="83" hits="0" branch="False" />
-            <line number="84" hits="0" branch="False" />
+            <line number="83" hits="1" branch="False" />
+            <line number="84" hits="1" branch="False" />
             <line number="87" hits="3" branch="False" />
             <line number="88" hits="3" branch="False" />
-            <line number="91" hits="20" branch="False" />
-            <line number="92" hits="20" branch="True" condition-coverage="100% (2/2)">
+            <line number="91" hits="26" branch="False" />
+            <line number="92" hits="26" branch="True" condition-coverage="100% (2/2)">
               <conditions>
                 <condition number="7" type="jump" coverage="100%" />
               </conditions>
             </line>
             <line number="93" hits="2" branch="False" />
             <line number="94" hits="2" branch="False" />
-            <line number="96" hits="18" branch="False" />
-            <line number="14" hits="8" branch="False" />
-            <line number="15" hits="8" branch="False" />
-            <line number="16" hits="8" branch="False" />
-            <line number="17" hits="8" branch="False" />
-            <line number="18" hits="8" branch="False" />
+            <line number="96" hits="24" branch="False" />
+            <line number="14" hits="9" branch="False" />
+            <line number="15" hits="9" branch="False" />
+            <line number="16" hits="9" branch="False" />
+            <line number="17" hits="9" branch="False" />
+            <line number="18" hits="9" branch="False" />
           </lines>
         </class>
       </classes>
     </package>
-    <package name="FestivalManager.Tests" line-rate="0.98" branch-rate="1" complexity="9">
+    <package name="FestivalManager.Tests" line-rate="0.9823999999999999" branch-rate="1" complexity="10">
       <classes>
         <class name="AutoGeneratedProgram" filename="Users\peter\.nuget\packages\microsoft.net.test.sdk\16.8.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -345,7 +345,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="FestivalManager.Tests.StageTests" filename="FestivalManager.Tests\StageTests.cs" line-rate="1" branch-rate="1" complexity="8">
+        <class name="FestivalManager.Tests.StageTests" filename="FestivalManager.Tests\StageTests.cs" line-rate="1" branch-rate="1" complexity="9">
           <methods>
             <method name="PerformersAreSetByTheConstructor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -428,6 +428,17 @@
                 <line number="93" hits="1" branch="False" />
               </lines>
             </method>
+            <method name="PerformerMayNotExist" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="97" hits="1" branch="False" />
+                <line number="98" hits="1" branch="False" />
+                <line number="99" hits="1" branch="False" />
+                <line number="100" hits="1" branch="False" />
+                <line number="102" hits="2" branch="False" />
+                <line number="104" hits="2" branch="False" />
+                <line number="106" hits="1" branch="False" />
+              </lines>
+            </method>
           </methods>
           <lines>
             <line number="15" hits="1" branch="False" />
@@ -479,6 +490,13 @@
             <line number="90" hits="1" branch="False" />
             <line number="92" hits="1" branch="False" />
             <line number="93" hits="1" branch="False" />
+            <line number="97" hits="1" branch="False" />
+            <line number="98" hits="1" branch="False" />
+            <line number="99" hits="1" branch="False" />
+            <line number="100" hits="1" branch="False" />
+            <line number="102" hits="2" branch="False" />
+            <line number="104" hits="2" branch="False" />
+            <line number="106" hits="1" branch="False" />
           </lines>
         </class>
       </classes>

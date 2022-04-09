@@ -93,13 +93,16 @@ namespace FestivalManager.Tests
 		}
 
 		[Test]
-		public void CanGetPerformer()
+		public void PerformerMayNotExist()
         {
 			Stage stage = new Stage();
-			Performer performer = new Performer("Ivan", "Goshev", 33);
-			stage.AddPerformer(performer);
+			stage.AddSong(new Song("Kuchek", TimeSpan.FromMinutes(2)));
+			stage.AddPerformer(new Performer("Ivan", "Geshev", 22));
 
-			Assert.AreEqual(performer, stage.GetPerformer("Ivan Goshev"));
+			Assert.Throws<ArgumentException>(() => stage.AddSongToPerformer("nqma pesen", "Ivan Geshev"));
+
+			Assert.Throws<ArgumentException>(() => stage.AddSongToPerformer("Kuchek", "Nikoi"));
+
 		}
 	}
 }

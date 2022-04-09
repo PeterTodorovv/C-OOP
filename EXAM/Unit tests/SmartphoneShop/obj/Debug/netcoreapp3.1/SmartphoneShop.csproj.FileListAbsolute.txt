@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+D:\c#Code\softuniC#\04.OOP\EXAM\Unit tests\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

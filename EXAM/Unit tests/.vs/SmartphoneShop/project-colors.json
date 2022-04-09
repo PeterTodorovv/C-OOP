@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "912f2a04-97b9-4033-9fea-9d11e4ba9ec2": {
+      "ProjectGuid": "912f2a04-97b9-4033-9fea-9d11e4ba9ec2",
+      "DisplayName": "SmartphoneShop.Tests",
+      "ColorIndex": 0
+    },
+    "3c9411ad-6841-444f-9243-416d78b7b43e": {
+      "ProjectGuid": "3c9411ad-6841-444f-9243-416d78b7b43e",
+      "DisplayName": "SmartphoneShop",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
